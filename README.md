@@ -9,4 +9,5 @@ Load SKILL.md before matching security specialists. Load designmaxxing in the sa
 ## Package
 
 - SKILL.md contains the security workflow and specialist routing.
-- references/application-security-checks.md contains the application-security checks.
+- references/application-security-checks.md contains the 70 core application-security checks.
+- references/conditional-platform-security-checks.md contains 19 additional checks for matching platform and lifecycle risks.
